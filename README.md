@@ -17,4 +17,5 @@ To use this integration, ensure you have the following installed on your system:
 ## Installation
 1. Clone this repository:
    
+   ![example](example.png)
    
