@@ -21,5 +21,9 @@ To use this integration, ensure you have the following installed on your system:
 
 ![combobox](combobox.png)
 
+![code](event.png)
+
 ![code](code.png)
+
+![code](code2.png)
    

@@ -8,6 +8,9 @@
 
 </Property>
 	<Item Name="Cells" Type="Folder">
+		<Item Name="Controllers" Type="Folder">
+			<Item Name="Custom Events.lvclass" Type="LVClass" URL="../Controllers/Custom Events/Custom Events.lvclass"/>
+		</Item>
 		<Item Name="Editors" Type="Folder">
 			<Item Name="Combo Box.lvclass" Type="LVClass" URL="../Editors/Combo Box/Combo Box.lvclass"/>
 			<Item Name="Editor Control Base.lvclass" Type="LVClass" URL="../Editors/Editor Base/Editor Control Base.lvclass"/>

@@ -40,7 +40,6 @@
 			<Item Name="System.Drawing" Type="Document" URL="System.Drawing">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="EventExample.dll" Type="Document" URL="/C/Program Files/National Instruments/LabVIEW 2024/examples/Connectivity/Dot NET/EventExample.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
