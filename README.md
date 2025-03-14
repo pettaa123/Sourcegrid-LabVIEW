@@ -23,7 +23,5 @@ To use this integration, ensure you have the following installed on your system:
 
 ![code](event.png)
 
-![code](code.png)
-
 ![code](code2.png)
    
