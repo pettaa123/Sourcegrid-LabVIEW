@@ -17,6 +17,7 @@
 			<Item Name="MyTestHeader.lvclass" Type="LVClass" URL="../tests/MyTestHeader/MyTestHeader.lvclass"/>
 			<Item Name="Test Cases.lvclass" Type="LVClass" URL="../tests/Tests/Test Cases.lvclass"/>
 			<Item Name="MyEventGrid.lvclass" Type="LVClass" URL="../tests/MyEventGrid/MyEventGrid.lvclass"/>
+			<Item Name="DELETEME.vi" Type="VI" URL="../source/Grid/DELETEME.vi"/>
 		</Item>
 		<Item Name="SourceGrid.lvlib" Type="Library" URL="../source/SourceGrid.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">

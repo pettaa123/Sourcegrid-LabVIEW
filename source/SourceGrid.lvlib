@@ -22,8 +22,9 @@
 			<Item Name="ColumnHeader View.lvclass" Type="LVClass" URL="../Views/ColumnHeader View/ColumnHeader View.lvclass"/>
 			<Item Name="Font.lvclass" Type="LVClass" URL="../Font/Font.lvclass"/>
 		</Item>
+		<Item Name="Cell Context.lvclass" Type="LVClass" URL="../Cells/Cell Context/Cell Context.lvclass"/>
 		<Item Name="Cell.lvclass" Type="LVClass" URL="../Cells/Cell/Cell.lvclass"/>
-		<Item Name="ColumnHeader.lvclass" Type="LVClass" URL="../Cells/ColumnHeader/ColumnHeader.lvclass"/>
+		<Item Name="Column Header.lvclass" Type="LVClass" URL="../Cells/ColumnHeader/Column Header.lvclass"/>
 	</Item>
 	<Item Name="errors" Type="Folder">
 		<Item Name="7280 Invalid Field--error.vi" Type="VI" URL="../Errors/7280 Invalid Field--error.vi"/>
