@@ -29,6 +29,9 @@
 	<Item Name="errors" Type="Folder">
 		<Item Name="7280 Invalid Field--error.vi" Type="VI" URL="../Errors/7280 Invalid Field--error.vi"/>
 	</Item>
+	<Item Name="Event Types" Type="Folder">
+		<Item Name="MouseEventArgs.lvclass" Type="LVClass" URL="../MouseEventArgs/MouseEventArgs.lvclass"/>
+	</Item>
 	<Item Name="typedefs" Type="Folder">
 		<Item Name="System.Drawing.Color.ctl" Type="VI" URL="../System.Drawing.Color.ctl"/>
 	</Item>
