@@ -23,7 +23,9 @@
 		</Item>
 		<Item Name="Cell Context.lvclass" Type="LVClass" URL="../Cells/Cell Context/Cell Context.lvclass"/>
 		<Item Name="Cell.lvclass" Type="LVClass" URL="../Cells/Cell/Cell.lvclass"/>
+		<Item Name="Check Box.lvclass" Type="LVClass" URL="../Cells/Check Box/Check Box.lvclass"/>
 		<Item Name="Column Header.lvclass" Type="LVClass" URL="../Cells/ColumnHeader/Column Header.lvclass"/>
+		<Item Name="Image.lvclass" Type="LVClass" URL="../Cells/Image/Image.lvclass"/>
 	</Item>
 	<Item Name="errors" Type="Folder">
 		<Item Name="7280 Invalid Field--error.vi" Type="VI" URL="../Errors/7280 Invalid Field--error.vi"/>
@@ -34,6 +36,5 @@
 	<Item Name="typedefs" Type="Folder">
 		<Item Name="System.Drawing.Color.ctl" Type="VI" URL="../System.Drawing.Color.ctl"/>
 	</Item>
-	<Item Name="Check Box.lvclass" Type="LVClass" URL="../Editors/Check Box/Check Box.lvclass"/>
 	<Item Name="SourceGrid.lvclass" Type="LVClass" URL="../Grid/SourceGrid.lvclass"/>
 </Library>
