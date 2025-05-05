@@ -9,6 +9,8 @@
 	<Item Name="Cells" Type="Folder">
 		<Item Name="Controllers" Type="Folder">
 			<Item Name="Custom Events.lvclass" Type="LVClass" URL="../Controllers/Custom Events/Custom Events.lvclass"/>
+			<Item Name="IController.lvclass" Type="LVClass" URL="../Controller/IController/IController.lvclass"/>
+			<Item Name="Tool Tip Text.lvclass" Type="LVClass" URL="../Controllers/Tool Tip Text/Tool Tip Text.lvclass"/>
 		</Item>
 		<Item Name="Editors" Type="Folder">
 			<Item Name="Combo Box.lvclass" Type="LVClass" URL="../Editors/Combo Box/Combo Box.lvclass"/>
