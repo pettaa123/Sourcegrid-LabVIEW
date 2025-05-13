@@ -12,10 +12,9 @@ This repository provides an interface for integrating Siemens [Sourcegrid](https
 To use this integration, ensure you have the following installed on your system:
 1. Siemens Sourcegrid v2.0.0
 2. .NET Framework 4.8.1
-3. LabVIEW (compatible version for the integration)
+3. LabVIEW 23
 4. [LUnit](https://github.com/Astemes/astemes-lunit) for the testing.
-## Installation
-1. Clone this repository:
+## Example Usage
    
 ![example](example.png)
 
